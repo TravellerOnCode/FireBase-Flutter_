@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 
-import 'package:image_picker/image_picker.dart';
+import 'package:image_picker_modern/image_picker_modern.dart';
 import 'package:firebase_ml_vision/firebase_ml_vision.dart';
 
 void main() => runApp(MyApp());
